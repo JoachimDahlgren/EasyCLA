@@ -52,7 +52,7 @@ Once you enter the edit screen just make a nothing change to the file, e.g. addi
 * Add empty lines to the file, e.g. at the beginning
 * Click on "Commit changes ..."
 * Click on "Sign off and propose changes" in the next dialog
-
+ 
 ![initiate_signing_process_step_2](images/initiate_signing_process_step_2.png)
 
 ### Step 3 - Create Pull Request (PR)
